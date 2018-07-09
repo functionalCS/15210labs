@@ -1,0 +1,17 @@
+Library
+  library(lib.cm)
+  source(-)
+is
+  lib.cm
+
+  TOKEN.sig
+  SEQ_UTIL.sig
+  KGRAM_DATA.sig
+  BABBLE.sig
+  BABBLE_PACKAGE.sig
+
+  MkCharacterToken.sml
+  MkStringToken.sml
+  MkRefSeqUtil.sml
+  MkRefKGramData.sml
+  MkRefBabble.sml

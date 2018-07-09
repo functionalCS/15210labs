@@ -1,0 +1,11 @@
+Library
+  library(lib.cm)
+  source(-)
+is
+  lib.cm
+
+  BareArraySequence.sml
+
+  BARESEQUENCE.sig
+  PARTIALSEQUENCE.sig
+  SEQFUN.sig

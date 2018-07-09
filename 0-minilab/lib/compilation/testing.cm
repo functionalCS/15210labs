@@ -1,0 +1,6 @@
+Group
+  structure StudentTestSuite
+is
+  ../210basis.cm
+
+  ../structures/StudentTestSuite.sml

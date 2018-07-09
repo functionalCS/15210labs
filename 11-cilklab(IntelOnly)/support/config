@@ -1,0 +1,3 @@
+HANDIN_FILES="stars/cilkStars.cpp written.pdf"
+LAB_NAME="cilklab"
+INCL_LIB=false

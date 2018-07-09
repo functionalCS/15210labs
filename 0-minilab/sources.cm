@@ -1,0 +1,11 @@
+Group is
+  support/support.cm
+
+  MkPartialArraySequence.sml
+  MkSeqFun.sml
+
+  support/RefMkPartialArraySequence.sml
+  support/RefMkSeqFun.sml
+
+  Tests.sml
+  support/Tester.sml
